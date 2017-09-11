@@ -1,6 +1,6 @@
 baseurl = "https://argonlaser.github.io/"
 languageCode = "en-us"
-title = "Icarus"
+title = "argonlaser"
 # Enable comments by entering your Disqus shortname
 disqusShortname = "argon_laser"
 # Enable Google Analytics by entering your tracking code
@@ -20,7 +20,7 @@ theme = "hugo-icarus-theme"
     author = "Venkata krishna Sundararajan"
     bio = "Programmer - Inquistive learner"
     location = "Bangalore"
-    site_description = ""
+    site_description = "In this blog, I would like to share my technical knowledge I have acquired through all these years. I also plan to pen my thoughts and opinions on something I find interesting about. Lets see where it goes :) "
     copyright  = "Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice)."
     avatar = "css/images/avatar.png"
     # Enter your email address to display your Gravatar icon in the profile. If not set the theme
