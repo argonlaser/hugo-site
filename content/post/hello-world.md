@@ -2,6 +2,7 @@
 title = "Hello world"
 tags = ["myself", "goal", "blog", "about me"]
 categories = ["about me"]
+date = "2015-9-11T21:49:20+02:00"
 menu = "main"
 banner = "banners/hackerboy.jpg"
 +++
